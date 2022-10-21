@@ -1,0 +1,22 @@
+$ ssh-keygen -t rsa -C "HarshithaDP"
+Generating public/private rsa key pair.
+Enter file in which to save the key (/c/Users/Rghavendra v/.ssh/id_rsa):
+Created directory '/c/Users/Rghavendra v/.ssh'.
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /c/Users/Rghavendra v/.ssh/id_rsa
+Your public key has been saved in /c/Users/Rghavendra v/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:OABtAGjvJP1e7WxA/mXuPO5Ea6fHKJ1vXu60nL3ZzlU HarshithaDP
+The key's randomart image is:
++---[RSA 3072]----+
+|o.oo             |
+|.. .o            |
+|. o..            |
+| . + . o         |
+|  + . = S  .    E|
+|   . . = ..o.   .|
+|    . . = =++. o.|
+|     .   *+*o+=.B|
+|        . =**o.X*|
++----[SHA256]-----+
